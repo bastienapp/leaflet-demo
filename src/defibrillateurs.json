@@ -1,0 +1,3488 @@
+{
+  "nhits": 155,
+  "parameters": {
+    "dataset": "244400404_defibrillateurs-nantes",
+    "timezone": "UTC",
+    "rows": 1000,
+    "start": 0,
+    "sort": ["designation"],
+    "format": "json",
+    "facet": ["nature_site", "libelle_quartier", "commune"]
+  },
+  "records": [
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "c51b54efd2f8a282383e81695b0f204ae20507b4",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi au Vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "CCAS de Nantes",
+        "adresse": "Place Saint Similien",
+        "nature_site": "Domaine public",
+        "gid": "133",
+        "heure_fermeture": "17:30",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.55845794029531, 47.21974234347421]
+        },
+        "position": "Dans un local derri\u00e8re l'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "7473ca2e00ca02221253891006305998af2d4ac4",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Centre  Sportif du Croissant",
+        "adresse": "29 rue du Croissant",
+        "nature_site": "Domaine public",
+        "gid": "73",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.522863319719766, 47.235052889140974]
+        },
+        "position": "Hall d'entr\u00e9e \u00e0 droite"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "66d2619c3137587d750092635adf66cf8e98b037",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Chapelle de l'Oratoire",
+        "adresse": "place de l'Oratoire",
+        "nature_site": "Domaine public",
+        "gid": "140",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.548586967649257, 47.21907569582123]
+        },
+        "position": "Au bureau d'accueil sur la gauche en entrant"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "0066a2e97a0e6597a9a19d7eb4809f9bcdcf6721",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Complexe sportif de la Duranti\u00e8re",
+        "adresse": "68 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "124",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.6052713140970631, 47.21399876256724]
+        },
+        "position": "Dans le couloir \u00e0 gauche de l'entr\u00e9e del'\u00e9quipement"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "dc5098d5a57629bb0972d874312f7245398f4ea5",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 9,
+        "libelle_quartier": "Ile de Nantes",
+        "designation": "Complexe sportif Mangin Beaulieu",
+        "adresse": "2 rue Louis Joxe",
+        "nature_site": "Domaine public",
+        "gid": "42",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.542365758795454, 47.20455915339852]
+        },
+        "position": "Couloir central entre le vestiaire 3 et les toilettes femmes"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "c51f0bbb1e89a380212bf2ffbec9e2245be5f098",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 11,
+        "libelle_quartier": "Nantes Erdre",
+        "designation": "Complexe sportif Saint Joseph de Porterie",
+        "adresse": "507 route de Saint Joseph",
+        "nature_site": "Domaine public",
+        "gid": "107",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5168016876249202, 47.27206521670096]
+        },
+        "position": "Dans le couloir \u00e0 gauche de l'entr\u00e9e del'\u00e9quipement"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "f88f46084f2c6fa3c0045334e0de5632bbb1fecd",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Dimanche",
+        "code_quartier": 9,
+        "libelle_quartier": "Ile de Nantes",
+        "designation": "Conservatoire de Nantes",
+        "adresse": "4 rue Ga\u00e9tan Rondeau",
+        "nature_site": "Domaine public",
+        "gid": "26",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.532730541082627, 47.2074769882778]
+        },
+        "position": "Dans le hall d'entr\u00e9e - contre un poteau"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "f67bfeee548cb7a77e3d485595a17d2ce944328d",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire du lundi au Vendredi",
+        "code_quartier": 9,
+        "libelle_quartier": "Ile de Nantes",
+        "designation": "Conservatoire de Nantes",
+        "adresse": "4 rue Ga\u00e9tan Rondeau",
+        "nature_site": "Domaine public",
+        "gid": "8",
+        "heure_fermeture": "22:00",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.532755612252247, 47.20745813326854]
+        },
+        "position": "Dans le hall d'entr\u00e9e - contre un poteau"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "61a734f7bf8ec1ca959fdc80c9e362f3348ba023",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les cong\u00e9s scolaires du lundi au vendredi",
+        "code_quartier": 9,
+        "libelle_quartier": "Ile de Nantes",
+        "designation": "Conservatoire de Nantes",
+        "adresse": "4 rue Ga\u00e9tan Rondeau",
+        "nature_site": "Domaine public",
+        "gid": "87",
+        "heure_fermeture": "12:30",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.532730541082627, 47.2074769882778]
+        },
+        "position": "Dans le hall d'entr\u00e9e - contre un poteau"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "614bfae2fbcaed385b53d9633a04ceb7113b7ffb",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire le samedi",
+        "code_quartier": 9,
+        "libelle_quartier": "Ile de Nantes",
+        "designation": "Conservatoire de Nantes",
+        "adresse": "4 rue Ga\u00e9tan Rondeau",
+        "nature_site": "Domaine public",
+        "gid": "109",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.532743077366745, 47.20746756119687]
+        },
+        "position": "Dans le hall d'entr\u00e9e - contre un poteau"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "d65573a6db70449a3ebbecceabc0f0d5682870b5",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les cong\u00e9s scolaires du lundi au vendredi",
+        "code_quartier": 9,
+        "libelle_quartier": "Ile de Nantes",
+        "designation": "Conservatoire de Nantes",
+        "adresse": "4 rue Ga\u00e9tan Rondeau",
+        "nature_site": "Domaine public",
+        "gid": "138",
+        "heure_fermeture": "17:30",
+        "heure_ouverture": "13:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.532718006188173, 47.20748641620336]
+        },
+        "position": "Dans le hall d'entr\u00e9e - contre un poteau"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "ec39ac487ede38c0b1ad71bcd91909997fcc6ba1",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur centre accueil de loisirs Ville au Denis",
+        "adresse": "all\u00e9e des soupirs",
+        "nature_site": "Domaine public",
+        "gid": "151",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.622895025454832, 47.15531098724663]
+        },
+        "position": "Centre accueil de loisirs Ville au Denis"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "06a7b483bdd686f2cc2d91dff4a6df701355118e",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur complexe sportif de la Croix-Jeannette",
+        "adresse": "all\u00e9e Jacques Pr\u00e9vert",
+        "nature_site": "Domaine public",
+        "gid": "153",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.621929455058586, 47.170904189259]
+        },
+        "position": "Salle des Samoura\u00efs"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "e80a2ffcdb2876a73c2a9648637405b96ce7fff3",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur gymnase de la Neustrie",
+        "adresse": "chemin de la Neustrie",
+        "nature_site": "Domaine public",
+        "gid": "148",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.591663406356079, 47.176254473287244]
+        },
+        "position": "Gymnase de la Neustrie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "dfd819e235dec1bb27e2f5401318e996ec29ba20",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur gymnase des B\u00e9lians",
+        "adresse": "3 rue Ginsheim-Gustavsburg",
+        "nature_site": "Domaine public",
+        "gid": "155",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.605036680290056, 47.173150933952996]
+        },
+        "position": "Gymnase des B\u00e9lians"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "eb6be3277854ae96f4f90378c15f4edf12c8881d",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur Mairie annexe",
+        "adresse": "2 rue C\u00e9lestin Freinet",
+        "nature_site": "Domaine public",
+        "gid": "154",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.58896488297449, 47.18126775879275]
+        },
+        "position": "Mairie annexe"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "e9e7d205c1b469652c5aa8ceacc903552c0b0064",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur Maison de quartier de la Grande Ouche",
+        "adresse": "9 rue de la Grande Ouche",
+        "nature_site": "Domaine public",
+        "gid": "152",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.579960007012398, 47.18054977913927]
+        },
+        "position": "Maison de quartier de la Grande Ouche"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "7c9b36bc752b8b6b5a568e44c65fdfd4788f978d",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur Piano'cktail",
+        "adresse": "1 rue Ginsheim-Gustavsburg",
+        "nature_site": "Domaine public",
+        "gid": "156",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.606603089564291, 47.17394225076131]
+        },
+        "position": "Piano'cktail"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "a512b52f7cf466559175743174c0a4e426f4ba51",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur piscine municipale",
+        "adresse": "chemin Jacques Pr\u00e9vert",
+        "nature_site": "Domaine public",
+        "gid": "150",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.621666417764024, 47.17152081737874]
+        },
+        "position": "Piscine municipale"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "bf6249140281f373269765cfa60dabb2240a5731",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur site naturel de loisirs Roche Ballue",
+        "adresse": "rue de la Gu\u00e9rini\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "149",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.6544108413159142, 47.18423867111931]
+        },
+        "position": "Site naturel de loisirs Roche Ballue"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "dd4c2479beeb1946d4883cc1534f0706cd6e4e91",
+      "fields": {
+        "commune": "Bouguenais",
+        "designation": "D\u00e9fibrillateur stade des Landes",
+        "adresse": "rue Jean-Baptiste Cl\u00e9ment",
+        "nature_site": "Domaine public",
+        "gid": "147",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5858091723943062, 47.1756526554581]
+        },
+        "position": "Stade des Landes"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b662e5fc12653e0d16a5885b722ab0ceb2341210",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi au Vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Espace Cosmopolis",
+        "adresse": "6 rue lekain",
+        "nature_site": "Domaine public",
+        "gid": "90",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "13:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.562699175959707, 47.21444703953254]
+        },
+        "position": "Dans le hall d'entr\u00e9e \u00e0 gauche"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "71abd1855fd82341133745c28d991c5ac0f8eedd",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi, Dimanche",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Espace Cosmopolis",
+        "adresse": "6 rue lekain",
+        "nature_site": "Domaine public",
+        "gid": "47",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.562699175959707, 47.21444703953254]
+        },
+        "position": "Dans le hall d'entr\u00e9e \u00e0 gauche"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "96d6a37d56d0a1452bc3e5852f356ec2bf0934ca",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du 15/01 au 19/03",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Jardin des plantes",
+        "adresse": "place Charles-Leroux",
+        "nature_site": "Domaine public",
+        "gid": "115",
+        "heure_fermeture": "18:30",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5440410047291282, 47.220922088629834]
+        },
+        "position": "EXT\u00c9RIEUR , sur le mur pignon du b\u00e2timent d'accueil -"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "9c20a26ca355f266e6ef9c314a4d1e4d2a2c56ac",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du 23/10 au 17/11",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Jardin des plantes",
+        "adresse": "place Charles-Leroux",
+        "nature_site": "Domaine public",
+        "gid": "61",
+        "heure_fermeture": "18h30",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5440410047291282, 47.220922088629834]
+        },
+        "position": "EXT\u00c9RIEUR , sur le mur pignon du b\u00e2timent d'accueil -"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "38507c3aa27aaff85c86d0d09f8528ad35a19d50",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du 20/03 au 22/10",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Jardin des plantes",
+        "adresse": "place Charles-Leroux",
+        "nature_site": "Domaine public",
+        "gid": "64",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5440410047291282, 47.220922088629834]
+        },
+        "position": "EXT\u00c9RIEUR , sur le mur pignon du b\u00e2timent d'accueil -"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "4bd0fdb06116b04de35ca23fa09cff840592bd98",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "18/11 au 14/01",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Jardin des plantes",
+        "adresse": "place Charles-Leroux",
+        "nature_site": "Domaine public",
+        "gid": "67",
+        "heure_fermeture": "17:30",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5440410047291282, 47.220922088629834]
+        },
+        "position": "EXT\u00c9RIEUR , sur le mur pignon du b\u00e2timent d'accueil -"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "d617e56d73907e8a647c4f48e74d337bcf3b5d9a",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Le Plan\u00e9tarium",
+        "adresse": "8 rue des Acadiens",
+        "nature_site": "Domaine public",
+        "gid": "131",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "13:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.57752413976712, 47.20224453501307]
+        },
+        "position": "Hall d'accueil \u00e0 gauche  en entrant"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b703e51be2cc4d23c253be5ebaaf4c6b9e85c527",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Le Plan\u00e9tarium",
+        "adresse": "8 rue des Acadiens",
+        "nature_site": "Domaine public",
+        "gid": "17",
+        "heure_fermeture": "12:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.57752413976712, 47.20224453501307]
+        },
+        "position": "Hall d'accueil \u00e0 gauche  en entrant"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "cceca53c5730fac0cb7fe65a10fda4548e6dbcf2",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi, Dimanche",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Le Plan\u00e9tarium",
+        "adresse": "8 rue des Acadiens",
+        "nature_site": "Domaine public",
+        "gid": "28",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.57752413976712, 47.20224453501307]
+        },
+        "position": "Hall d'accueil \u00e0 gauche  en entrant"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "12db1eb34bab94e3931629f31971ae656b3c3037",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Suivant l'activit\u00e9",
+        "code_quartier": 9,
+        "libelle_quartier": "Ile de Nantes",
+        "designation": "le WAREHOUSE",
+        "adresse": "21 quai des Antilles",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "78",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.572854972090762, 47.20128616727219]
+        },
+        "position": "Dans un local de service sur la droite en entrant"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "f5119fddab87dc0451f2505ee848041406db0320",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Mairie Annexe des Dervali\u00e8res",
+        "adresse": "1 place des Dervalli\u00e8res",
+        "nature_site": "Domaine public",
+        "gid": "98",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.597428096114605, 47.223471917063975]
+        },
+        "position": "contre le mur - face \u00e0 l'entr\u00e9e"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "cb2a68dde6e7acb7d9967ee1bda197d14b10d12b",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Mairie centrale",
+        "adresse": "29 rue de Strasbourg",
+        "nature_site": "Domaine public",
+        "gid": "81",
+        "heure_fermeture": "12:00",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.553742150962804, 47.218703682879365]
+        },
+        "position": "Dans le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "bd8ed5072acf5c45a0f8841b3c5321db41dc865a",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi , Mardi , Mercredi , Jeudi , Vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Mairie centrale",
+        "adresse": "29 rue de Strasbourg",
+        "nature_site": "Domaine public",
+        "gid": "93",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.553742150962804, 47.218703682879365]
+        },
+        "position": "Dans le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "5f26a0248a926fa2727aab893cfec9f6f0b06d61",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi, samedi, dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 3,
+        "libelle_quartier": "Hauts Pav\u00e9s - Saint F\u00e9lix",
+        "designation": "Maison de l'Erdre\u00a0: Du 15/01 au 17/11",
+        "adresse": "Quai Henri Barbusse",
+        "nature_site": "Domaine public",
+        "gid": "60",
+        "heure_fermeture": "18:15",
+        "heure_ouverture": "14:15",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.55424804448822, 47.22620728151193]
+        },
+        "position": "Sur la gauche - dans le couloir prolongeant le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "0c49ffb2045e65843b443eb0a8a60944fc8e3058",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, vendredi",
+        "code_quartier": 3,
+        "libelle_quartier": "Hauts Pav\u00e9s - Saint F\u00e9lix",
+        "designation": "Maison de l'Erdre\u00a0: Du 15/01 au 17/11",
+        "adresse": "Quai Henri Barbusse",
+        "nature_site": "Domaine public",
+        "gid": "54",
+        "heure_fermeture": "18:15",
+        "heure_ouverture": "13:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.55424804448822, 47.22620728151193]
+        },
+        "position": "Sur la gauche - dans le couloir prolongeant le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "7437be6f38c5147b86edf2ce7344888594f2be3f",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi, samedi, dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 3,
+        "libelle_quartier": "Hauts Pav\u00e9s - Saint F\u00e9lix",
+        "designation": "Maison de l'Erdre\u00a0: Du 15/01 au 17/11",
+        "adresse": "Quai Henri Barbusse",
+        "nature_site": "Domaine public",
+        "gid": "119",
+        "heure_fermeture": "12:15",
+        "heure_ouverture": "09:15",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.55424804448822, 47.22620728151193]
+        },
+        "position": "Sur la gauche - dans le couloir prolongeant le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "74fd0f5443049a4739cfaa324d9acf10d56f4cba",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi, samedi, dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 3,
+        "libelle_quartier": "Hauts Pav\u00e9s - Saint F\u00e9lix",
+        "designation": "Maison de l'Erdre\u00a0: Du 18/11 au 14/01",
+        "adresse": "Quai Henri Barbusse",
+        "nature_site": "Domaine public",
+        "gid": "89",
+        "heure_fermeture": "12:15",
+        "heure_ouverture": "09:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.55424804448822, 47.22620728151193]
+        },
+        "position": "Sur la gauche - dans le couloir prolongeant le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "fab89cde98b74c2b8d7dfed1bfacb15941789793",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, vendredi",
+        "code_quartier": 3,
+        "libelle_quartier": "Hauts Pav\u00e9s - Saint F\u00e9lix",
+        "designation": "Maison de l'Erdre\u00a0: Du 18/11 au 14/01",
+        "adresse": "Quai Henri Barbusse",
+        "nature_site": "Domaine public",
+        "gid": "99",
+        "heure_fermeture": "17:15",
+        "heure_ouverture": "13:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.55424804448822, 47.22620728151193]
+        },
+        "position": "Sur la gauche - dans le couloir prolongeant le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b49c61b9a66aaf3cfaf3c693eb4cefb94f159070",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi, samedi, dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 3,
+        "libelle_quartier": "Hauts Pav\u00e9s - Saint F\u00e9lix",
+        "designation": "Maison de l'Erdre\u00a0:Du 18/11 au 14/01",
+        "adresse": "Quai Henri Barbusse",
+        "nature_site": "Domaine public",
+        "gid": "102",
+        "heure_fermeture": "17:15",
+        "heure_ouverture": "14:15",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.55424804448822, 47.22620728151193]
+        },
+        "position": "Sur la gauche - dans le couloir prolongeant le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3e78374d71477cab5de772993e6d4bbe8b81b6a9",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mardi, mercredi, jeudi, vendredi, samedi, dimanche",
+        "code_quartier": 3,
+        "libelle_quartier": "Hauts Pav\u00e9s - Saint F\u00e9lix",
+        "designation": "March\u00e9 de Talensac",
+        "adresse": "Rue de Talensac",
+        "nature_site": "Domaine public",
+        "gid": "135",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "07:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.557975650850387, 47.221289797175345]
+        },
+        "position": "contre un mur- partie centrale du b\u00e2timent ."
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "57d21b73b103a52b3f4ae42aec3d49f2595040ee",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "M\u00e9diath\u00e8que Floresca Gu\u00e9pin",
+        "adresse": "15 rue de la Haluch\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "14",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5127688312233691, 47.24086628440315]
+        },
+        "position": "Devant la banque de pr\u00eats et \u00e0 cot\u00e9 de l'armoire \u00e9lectrique"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "dc3672053d6f2767e0aa7996092c29c86b2db552",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "M\u00e9diath\u00e8que Floresca Gu\u00e9pin",
+        "adresse": "15 rue de la Haluch\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "86",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5127688312233691, 47.24086628440315]
+        },
+        "position": "Devant la banque de pr\u00eats et \u00e0 cot\u00e9 de l'armoire \u00e9lectrique"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "21276c658af20a76f060afd5d3b16013e1039733",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "1er dimanche de septembre \u00e0 avril",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "M\u00e9diath\u00e8que Floresca Gu\u00e9pin",
+        "adresse": "15 rue de la Haluch\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "141",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5127688312233691, 47.24086628440315]
+        },
+        "position": "Devant la banque de pr\u00eats et \u00e0 cot\u00e9 de l'armoire \u00e9lectrique"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "06ffe63fe0f21c9b6e27a985597e3061191c362e",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9\u00a0du 16/07 au 1/09\u00a0: mardi, mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "M\u00e9diath\u00e8que Floresca Gu\u00e9pin",
+        "adresse": "15 rue de la Haluch\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "13",
+        "heure_fermeture": "17:00",
+        "heure_ouverture": "13:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5127688312233691, 47.24086628440315]
+        },
+        "position": "Devant la banque de pr\u00eats et \u00e0 cot\u00e9 de l'armoire \u00e9lectrique"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "6b27df3fca266f262404f6f935a5513734a14af9",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mardi, jeudi, vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "M\u00e9diath\u00e8que Floresca Gu\u00e9pin",
+        "adresse": "15 rue de la Haluch\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "106",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "13:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5127688312233691, 47.24086628440315]
+        },
+        "position": "Devant la banque de pr\u00eats et \u00e0 cot\u00e9 de l'armoire \u00e9lectrique"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "1d126698cc6c0a5c3b9164d1264d7c5912ab1872",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9\u00a0: mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "M\u00e9diath\u00e8que Jacques Demy",
+        "adresse": "24 quai de la Fosse",
+        "nature_site": "Domaine public",
+        "gid": "1",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "13:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.562095739754582, 47.21106285763656]
+        },
+        "position": "PC S\u00e9curit\u00e9"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3d04b058d51b8cdd682209a55e785d8a7193ee30",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "M\u00e9diath\u00e8que Jacques Demy",
+        "adresse": "24 quai de la Fosse",
+        "nature_site": "Domaine public",
+        "gid": "69",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.562095739754582, 47.21106285763656]
+        },
+        "position": "PC S\u00e9curit\u00e9"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "40bd7159f1b41cb03af4d765af715fc5dc3beb3d",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "M\u00e9diath\u00e8que Jacques Demy",
+        "adresse": "24 quai de la Fosse",
+        "nature_site": "Domaine public",
+        "gid": "58",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.562095739754582, 47.21106285763656]
+        },
+        "position": "PC S\u00e9curit\u00e9"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "8d39a7b0fc3201f02e46643cd02dede1bc6266e8",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi , Mardi , Jeudi , Vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "M\u00e9diath\u00e8que Jacques Demy",
+        "adresse": "24 quai de la Fosse",
+        "nature_site": "Domaine public",
+        "gid": "66",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.562095739754582, 47.21106285763656]
+        },
+        "position": "PC S\u00e9curit\u00e9"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "f42816d4662e17bda49a48b55f413c6081b3f428",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9\u00a0: mardi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "M\u00e9diath\u00e8que Jacques Demy",
+        "adresse": "24 quai de la Fosse",
+        "nature_site": "Domaine public",
+        "gid": "70",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.562095739754582, 47.21106285763656]
+        },
+        "position": "PC S\u00e9curit\u00e9"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b9d1fd9e570727f730a64217f34fb23e703822e5",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "M\u00e9diath\u00e8que Luce Courville",
+        "adresse": "1 rue Eug\u00e8ne Thomas",
+        "nature_site": "Domaine public",
+        "gid": "7",
+        "heure_fermeture": "17:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.573959800420654, 47.261819896245726]
+        },
+        "position": "Dans le hall d'accueil , face \u00e0 la banque de pr\u00eat"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "6dad418ce2bf8a1a1658b1c14c8410437d3c8125",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "M\u00e9diath\u00e8que Luce Courville",
+        "adresse": "1 rue Eug\u00e8ne Thomas",
+        "nature_site": "Domaine public",
+        "gid": "12",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.573959800420654, 47.261819896245726]
+        },
+        "position": "Dans le hall d'accueil , face \u00e0 la banque de pr\u00eat"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "6ab56c4de5cfc22882d73e163cb787be9d878be0",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mardi, jeudi,",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "M\u00e9diath\u00e8que Luce Courville",
+        "adresse": "1 rue Eug\u00e8ne Thomas",
+        "nature_site": "Domaine public",
+        "gid": "95",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "13:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.573959800420654, 47.261819896245726]
+        },
+        "position": "Dans le hall d'accueil , face \u00e0 la banque de pr\u00eat"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "d450ac829549b869d81631ba41376b3d5d19a3bd",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Vendredi",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "M\u00e9diath\u00e8que Luce Courville",
+        "adresse": "1 rue Eug\u00e8ne Thomas",
+        "nature_site": "Domaine public",
+        "gid": "6",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "13:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.573959800420654, 47.261819896245726]
+        },
+        "position": "Dans le hall d'accueil , face \u00e0 la banque de pr\u00eat"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "2b4511f35167d05340f964dde4fe5e2ab79bca93",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9 du 16/07 au 1/09\u00a0: mardi, mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "M\u00e9diath\u00e8que Luce Courville",
+        "adresse": "1 rue Eug\u00e8ne Thomas",
+        "nature_site": "Domaine public",
+        "gid": "40",
+        "heure_fermeture": "17:00",
+        "heure_ouverture": "13:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.573959800420654, 47.261819896245726]
+        },
+        "position": "Dans le hall d'accueil , face \u00e0 la banque de pr\u00eat"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "6817b5615dc282563223d16672703a9c6799bedc",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Mus\u00e9e Jules Verne",
+        "adresse": "3 rue de l'Hermitage",
+        "nature_site": "Domaine public",
+        "gid": "15",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.577411583055228, 47.20160886288439]
+        },
+        "position": "Dans le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "adfb6dd57e9f5b1ac2a29ec3ecce1828f58be5c1",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, Mercredi, Jeudi, Vendredi, Samedi",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Mus\u00e9e Jules Verne",
+        "adresse": "3 rue de l'Hermitage",
+        "nature_site": "Domaine public",
+        "gid": "29",
+        "heure_fermeture": "12:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.577411583055228, 47.20160886288439]
+        },
+        "position": "Dans le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "bcd53b04d9ba51a556d5de96d59ed72dac1f8cde",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Tous les jours en juillet et ao\u00fbt",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Mus\u00e9e Jules Verne",
+        "adresse": "3 rue de l'Hermitage",
+        "nature_site": "Domaine public",
+        "gid": "51",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.577411583055228, 47.20160886288439]
+        },
+        "position": "Dans le hall d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "e40403aea70cbfb8e23efc42968c796560ef4b34",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mercredi, jeudi, vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Mus\u00e9um d'Histoire Naturelle",
+        "adresse": "12 rue Voltaire",
+        "nature_site": "Domaine public",
+        "gid": "129",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.565025347322886, 47.2128101350378]
+        },
+        "position": "Accueil du Mus\u00e9um - cot\u00e9 du square Louis Bureau et des toilettes publiques"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "ef58aea1165f1bfb0f95cf05f29761e2e45f6554",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Tous les jours en \u00e9t\u00e9",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Mus\u00e9um d'Histoire Naturelle",
+        "adresse": "12 rue Voltaire",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "75",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.565025347322886, 47.2128101350378]
+        },
+        "position": "Accueil du Mus\u00e9um - cot\u00e9 du square Louis Bureau et des toilettes publiques"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "834081a73008e5800f147888876bf075f2741776",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 9,
+        "libelle_quartier": "Ile de Nantes",
+        "designation": "Palais de sports de Beaulieu",
+        "adresse": "7-9 rue Andr\u00e9 Tardieu",
+        "nature_site": "Domaine public",
+        "gid": "136",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.536764254828566, 47.20952112667834]
+        },
+        "position": "Couloir d'acc\u00e8s aux salles sportives , face au hall d'entr\u00e9e"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "0f3f4769435cd441abb0164fac984df86f8209de",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du 15/01 au 19/03",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Parc du Grand Blottereau",
+        "adresse": "Boulevard Auguste P\u00e9neau",
+        "nature_site": "Domaine public",
+        "gid": "9",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "08:45",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5124113733286682, 47.22817899439621]
+        },
+        "position": "EXT\u00c9RIEUR , sur le mur pignon du Gymnase"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b2f283ad4fe52f0a8c23c551158f98ffee2031e1",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du 18/11 au 14/01",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Parc du Grand Blottereau",
+        "adresse": "Boulevard Auguste P\u00e9neau",
+        "nature_site": "Domaine public",
+        "gid": "44",
+        "heure_fermeture": "17:00",
+        "heure_ouverture": "08:45",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5124113733286682, 47.22817899439621]
+        },
+        "position": "EXT\u00c9RIEUR , sur le mur pignon du Gymnase"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "efcf91ba9701bb779cef92b342c5c548f682c21e",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du 20/03 au 22/10",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Parc du Grand Blottereau",
+        "adresse": "Boulevard Auguste P\u00e9neau",
+        "nature_site": "Domaine public",
+        "gid": "97",
+        "heure_fermeture": "19:30",
+        "heure_ouverture": "08:45",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5124113733286682, 47.22817899439621]
+        },
+        "position": "EXT\u00c9RIEUR , sur le mur pignon du Gymnase"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "7e9a691e69f7b1b2f77fda33917e96ca14bef6a7",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du 23/10 au 17/11",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Parc du Grand Blottereau",
+        "adresse": "Boulevard Auguste P\u00e9neau",
+        "nature_site": "Domaine public",
+        "gid": "48",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "08:45",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5124113733286682, 47.22817899439621]
+        },
+        "position": "EXT\u00c9RIEUR , sur le mur pignon du Gymnase"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "63e4bc51e417914960b4bfcf1194ee343a335693",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Pharmacie Boudrot",
+        "adresse": "2 place du Vieux Doulon",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "33",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.502963310460271, 47.23525789733948]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "72f84ddf2ab88dcb8f0338a4023f2825fb96532d",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Pharmacie Boudrot",
+        "adresse": "2 place du Vieux Doulon",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "82",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.502963310460271, 47.23525789733948]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "fa447033bffb6da002dab4640d57ade276478dc0",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Pharmacie Boudrot",
+        "adresse": "2 place du Vieux Doulon",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "96",
+        "heure_fermeture": "12:45",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.502963310460271, 47.23525789733948]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3012e986de1353aaeffb404a1b0df1020b03a7e4",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Pharmacie de la Botti\u00e8re",
+        "adresse": "63 rue de Botti\u00e8re",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "43",
+        "heure_fermeture": "19:30",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.518929926370141, 47.24029119629753]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "d86e6bad17b9ba1d2ce5ca0fd660f07fea91d310",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Pharmacie de la Botti\u00e8re",
+        "adresse": "64 rue de Botti\u00e8re",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "18",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.518917380009036, 47.24030062269485]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "efb89d847aab469696118db0c857b253e998e943",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Pharmacie de la Cath\u00e9drale",
+        "adresse": "2 rue du Roi Albert",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "71",
+        "heure_fermeture": "12:30",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5510321726512202, 47.218705040877346]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "80fd8c3f77bc08a2cea790cc4ef5c8f1a4aff93a",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Pharmacie de la Cath\u00e9drale",
+        "adresse": "2 rue du Roi Albert",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "123",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5510321726512202, 47.218705040877346]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "cc9243c816893f54fb040adc469ad3708879278c",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi et samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Pharmacie de Paris",
+        "adresse": "17 rue d'Orl\u00e9ans",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "45",
+        "heure_fermeture": "19:30",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.55775174656879, 47.21439813479742]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "bdb978448c8ba6d42fdaa2a0c50d73e65c28917e",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Pharmacie des Lauriers",
+        "adresse": "15 bis, bd Jean Moulin",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "143",
+        "heure_fermeture": "12:30",
+        "heure_ouverture": "09:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.6060293259331901, 47.20401097698858]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "9182c465ef74ce7ac5afb0a4f9aa80fa8b618045",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Pharmacie des Lauriers",
+        "adresse": "15 bis, bd Jean Moulin",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "22",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.6060293259331901, 47.20401097698858]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "2a7a6a85982b1307e88c600f709b62bd9c07692e",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Pharmacie des Lauriers",
+        "adresse": "15 bis, bd Jean Moulin",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "46",
+        "heure_fermeture": "12:00",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.6060418471377, 47.20400154196364]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "291f98ddba09ef765aaf0f20307e06e1fe08d24f",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Pharmacie Devenyns",
+        "adresse": "Boulevard de Sarrebruck",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "39",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:15",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.527653822799947, 47.21423120025831]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "459f8c32bd2ad813f35eeacdc3ca772fd214f3eb",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Pharmacie Devenyns",
+        "adresse": "Boulevard de Sarrebruck",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "32",
+        "heure_fermeture": "12:15",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.527653822799947, 47.21423120025831]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "4f4d63b728106ea6526ce61995c587fea5a6ba52",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Pharmacie du Pilori",
+        "adresse": "1 place du Pilori",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "52",
+        "heure_fermeture": "20:30",
+        "heure_ouverture": "08:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.552786470821079, 47.21628608232802]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "392db670a46fca9b207817f7895f37194e9cb875",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Pharmacie du Pilori",
+        "adresse": "1 place du Pilori",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "85",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.552786470821079, 47.21628608232802]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "6176d637a302b88c98a893dc8c285d31b0565524",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi et samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Pharmacie du Th\u00e9\u00e2tre",
+        "adresse": "1 place Graslin",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "114",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "09:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.561798598302605, 47.21315349349708]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "0e91d9fe730f758e45267eb86d51afd9ea8fd844",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 4,
+        "libelle_quartier": "Breil - Barberie",
+        "designation": "Pharmacie Quancard (Breil)",
+        "adresse": "59 boulevard Pierre De Coubertin",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "83",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.587844447214251, 47.2287253686724]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "bbdb7b828284f8fce75b32224658a21e6c158043",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du lundi au vendredi",
+        "code_quartier": 4,
+        "libelle_quartier": "Breil - Barberie",
+        "designation": "Pharmacie Quancard (Breil)",
+        "adresse": "59 boulevard Pierre De Coubertin",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "120",
+        "heure_fermeture": "19:30",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.587844447214251, 47.2287253686724]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "820b910a8c7684b3eec7f30c32604f823d7c85a9",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Du lundi au samedi",
+        "code_quartier": 4,
+        "libelle_quartier": "Breil - Barberie",
+        "designation": "Pharmacie Quancard (Breil)",
+        "adresse": "59 boulevard Pierre De Coubertin",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "24",
+        "heure_fermeture": "12:30",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.587844447214251, 47.2287253686724]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b858e83dfcc4e136998a66545ededd576faf1b8f",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Pharmacie Saint Nicolas",
+        "adresse": "9 rue de Feltre",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "130",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.558746515116085, 47.21571554600347]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "28e80afbb116ae73b6b9ae72c25bfc1a2dc7c67a",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Pharmacie Saint Nicolas",
+        "adresse": "9 rue de Feltre",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "21",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.558746515116085, 47.21571554600347]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "30872d30f2ef74a0b5298b0af906a06806c5f0cd",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi au samedi",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "Pharmacie Santos Dumont (Petite Sensive )",
+        "adresse": "3 rue Santos Dumont",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "34",
+        "heure_fermeture": "12:30",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.566847845160997, 47.25954787473575]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "11c3ea9cdc89b7141caca74144aee3f2d5533cad",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi au Vendredi",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "Pharmacie Santos Dumont (Petite Sensive )",
+        "adresse": "3 rue Santos Dumont",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "100",
+        "heure_fermeture": "19:30",
+        "heure_ouverture": "14:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.566847845160997, 47.25954787473575]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "f686a729fca4276252592dd3330bc10ea68c5db8",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "Pharmacie Santos Dumont (Petite Sensive )",
+        "adresse": "3 rue Santos Dumont",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "77",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.566847845160997, 47.25954787473575]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "40571e47fed1786e26d51e4391090493756087a4",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Pharmacie Zola",
+        "adresse": "62 boulevard Pasteur",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "53",
+        "heure_fermeture": "12:30",
+        "heure_ouverture": "09:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.585178383916942, 47.213999637221136]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "e628bad41ad1a8446fc1b30e607f77fff3fa9fe7",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Lundi, mardi, mercredi, jeudi, vendredi, samedi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Pharmacie Zola",
+        "adresse": "62 boulevard Pasteur",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "72",
+        "heure_fermeture": "19:30",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.585178383916942, 47.213999637221136]
+        },
+        "position": "INT\u00c9RIEUR"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "d0205fd22ed1cf0899e08ec417a98f7f10c01560",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: dimanche",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "88",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "ece32911861691a8ee5da925b529820e3ad2fed2",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances du 2/07 au 2/09/2018\u00a0: Du lundi au vendredi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "128",
+        "heure_fermeture": "16:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "31ddd46e518b89fb13d2e18d1e1ecd7309c285e4",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: samedi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "145",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "06060a5c3c564b16b2ee107d4ff4cbec7237eee0",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: mercredi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "31",
+        "heure_fermeture": "14:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "15d107406c2f5e4b6a4bc7b1d24481179218691b",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances du 2/07 au 2/09/2018\u00a0: Du lundi au vendredi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "11",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "16:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b4b4240050ceebd506e0c0801744949432fd1a95",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: samedi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "65",
+        "heure_fermeture": "12:00",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "4b29d8e15f7b2f39625ed87a3e23c1382500efc3",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances du 2/07 au 2/09/2018\u00a0: Samedi, dimanche",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "113",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3ccabdb1401d5170891aaa7bc36af30b1d75ba29",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances du 2/07 au 2/09/2018\u00a0: Samedi, dimanche",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "127",
+        "heure_fermeture": "12:00",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "164051630d52e7acdb6a27f1706b8d6c599a2b7c",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: lundi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "36",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "16:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "430a220f0c211ec588fd9229dc4a1c9c9a612bdc",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: jeudi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "5",
+        "heure_fermeture": "14:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b5a98e88cacdb909756bb73c931c6ef700c2a868",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: lundi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "35",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "17:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3cfe3f6a855f0093507391ee4ec63ae6d71646fe",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: mercredi",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Piscine Duranti\u00e8re",
+        "adresse": "11 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "37",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "16:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.598743384055181, 47.21277169497089]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "413e0a679b11a1f9ebf7e5aee6fd8418babd90fd",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "dimanche",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "27",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "ef0abe7d80f0ff2fcf82188af8233f2e2296a7c4",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "59",
+        "heure_fermeture": "16:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3bc26c4138f6d8b8f8f4502c0a7a449e3a265c01",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Samedi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "74",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "c43156d709f1ea58209f46f75c97a21af07c7ab6",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances scolaires\u00a0: Dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "110",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "c046feb7fabbf7133d5d5f548340e629dab0975b",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances scolaires\u00a0: lundi, mercredi, jeudi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "10",
+        "heure_fermeture": "17:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "c69d8410895828ed2ffb8d9c4f317d68da017d6c",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: mardi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "56",
+        "heure_fermeture": "14:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "a7bf19340e20f1eda5cca04bb2064bd56243b00c",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Jeudi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "84",
+        "heure_fermeture": "21:00",
+        "heure_ouverture": "18:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "6bfd38e9af05cbe023b9d032b48afba2b0d8b0fc",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: mardi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "111",
+        "heure_fermeture": "22:30",
+        "heure_ouverture": "18:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "da1fafb03457ec701ba73168350659d35f3bf0b5",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances scolaires\u00a0: mardi et vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "116",
+        "heure_fermeture": "17:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "152ca4fa43065804b4ba914ececbff315babd4d5",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "144",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "66ab05d7fcd75a5899d076fd5f023e0cf69ab967",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Jeudi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "4",
+        "heure_fermeture": "14:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3cc85e481cdd58f1754ba9c8782d8ffcb1a8372f",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "92",
+        "heure_fermeture": "16:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "6948018b2f9fa0c0e0ee5901943ccea6f4801eee",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances scolaires\u00a0: Samedi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "126",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "2d0204278d6fdea75082c4b5419c633a174febe3",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "49",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "8c65578990f3532607dbc03501ffc9619a92ecca",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances scolaires\u00a0: mardi et vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "94",
+        "heure_fermeture": "22:30",
+        "heure_ouverture": "17:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "daf5a6ab322c5df3adafdd501db8e90d9406b437",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances scolaires\u00a0: lundi, mercredi, jeudi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "104",
+        "heure_fermeture": "21:00",
+        "heure_ouverture": "17:30",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "dcbaa294ae800ba87a397d8944deee6746e4988d",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Vendredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "117",
+        "heure_fermeture": "22:30",
+        "heure_ouverture": "18:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "56901f4b6becbdc1a5584a9566af4e06fbb53d2b",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances scolaires\u00a0: Samedi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "134",
+        "heure_fermeture": "19:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "a5d20a93b0808c58a714cad676e83c4aa5a9f557",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Pendant les vacances scolaires\u00a0: Dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "101",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "504890b1003e23f4b95458e642e312af32ceae4e",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Mercredi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "112",
+        "heure_fermeture": "21:00",
+        "heure_ouverture": "18:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3064bf3419d8e78d1250f82af59b56c8dda55627",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "En p\u00e9riode scolaire\u00a0: lundi",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Piscine Jules Verne",
+        "adresse": "rue Jules Grangjouan",
+        "nature_site": "Domaine public",
+        "gid": "118",
+        "heure_fermeture": "14:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.517455300878947, 47.24827524934374]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "f25e1c7586071617141071fb359570bd70c4e7a5",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "P\u00e9riode scolaire\u00a0: mercredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "3",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "8a5e4d0b9d1dfec8376f4822e9178c5826ba917c",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9 du 2/07 au 26/08\u00a0: Du lundi au vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "16",
+        "heure_fermeture": "16:30",
+        "heure_ouverture": "10:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "03b40c11159203092d5dc8da4a7380cadc7935d7",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9 du 2/07 au 26/08\u00a0: Du lundi au vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "79",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "17:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "a00c5316dee2299c91fae3a79c5f3e0d233a6288",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "P\u00e9riode scolaire\u00a0: samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "103",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "15:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3dd2c6f583ed6f7ed42691ba8d0f002429bb544c",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "P\u00e9riode scolaire\u00a0: mardi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "122",
+        "heure_fermeture": "17:30",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "11cbbc1293500cb68a1e19731ad61f4cbdc2567b",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "P\u00e9riode scolaire\u00a0: dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "19",
+        "heure_fermeture": "14:00",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "4e4fc6c5e5f0aed46a605329feba98df6d0bbcf5",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9\u00a0: dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "80",
+        "heure_fermeture": "18:00",
+        "heure_ouverture": "14:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "8c8799ce2dd421b1d66ca58d7b01251adc96926a",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "P\u00e9riode scolaire\u00a0: lundi, jeudi, vendredi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "121",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "12:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "41733427a663b6cdb4b7c4b73e7bdcfcf26593bf",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9\u00a0: dimanche et jours f\u00e9ri\u00e9s",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "20",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "feeae55ce0f1113b2bf623fd92eec03af73cfe25",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "P\u00e9riode scolaire\u00a0: samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "55",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b6478aa09c2f1acfd29d4023f937a882982e706e",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9 du 2/07 au 26/08\u00a0: samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "30",
+        "heure_fermeture": "20:00",
+        "heure_ouverture": "15:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "b608bcb53b6807ce6e4a7a5afe4408e0ecb0a5af",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "Horaires d'\u00e9t\u00e9 du 2/07 au 26/08\u00a0:  samedi",
+        "code_quartier": 5,
+        "libelle_quartier": "Centre Ville",
+        "designation": "Piscine L\u00e9o Lagrange",
+        "adresse": "rue deurbroucq",
+        "nature_site": "Domaine public",
+        "gid": "91",
+        "heure_fermeture": "13:00",
+        "heure_ouverture": "08:00",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.560053346889057, 47.20987997232068]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "4d2b64743299863f434ef6095a3a959a1da5241a",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "R\u00e9ouverture envisag\u00e9e le 17/11/2018, sous r\u00e9serve de l'ach\u00e8vement des travaux",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Piscine Petite Amazonie",
+        "adresse": "15 rue du Pont de l'Arche de Mauves",
+        "nature_site": "Domaine public",
+        "gid": "68",
+        "heure_fermeture": "fermeture",
+        "heure_ouverture": "fermeture",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.531722016622894, 47.21638244402217]
+        },
+        "position": "Infirmerie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "7402c014f90e31bd2804b801cde6a44d4dde5dbd",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 11,
+        "libelle_quartier": "Nantes Erdre",
+        "designation": "Plaine de jeux de l'Eraudi\u00e8re",
+        "adresse": "11 Rue du Stade de la Noue",
+        "nature_site": "Domaine public",
+        "gid": "105",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.535376382958317, 47.247341761143446]
+        },
+        "position": "Dans le local du gardien"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "926e06e7450966d37c1f47a8a6544faa51245c7a",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Plaine de jeux de la No\u00e9 Lambert",
+        "adresse": "21 route de Sainte Luce",
+        "nature_site": "Domaine public",
+        "gid": "125",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.527463703046417, 47.23063868672779]
+        },
+        "position": "dans le couloir sur la gauche de l'entr\u00e9e principale"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "2bd0b74e212961f42cd10f49279b3551aeca8c0e",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 8,
+        "libelle_quartier": "Nantes Sud",
+        "designation": "Plaine de jeux de S\u00e8vres",
+        "adresse": "Rue de l' Olivraie",
+        "nature_site": "Domaine public",
+        "gid": "76",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.53124487661881, 47.18509107654501]
+        },
+        "position": "Dans le local du gardein"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "02584062401ccbe428e9d880ac98e49e7548b304",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "Plaine de jeux des Basses landes",
+        "adresse": "6 chemin de la Justice",
+        "nature_site": "Domaine public",
+        "gid": "41",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.587274705155784, 47.267654555522206]
+        },
+        "position": "Dans le local gardien \u00e0 cot\u00e9 de l'entr\u00e9e"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "d40d6d67c12eac61b9ca732a9ee89a0f6a789662",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Plaine de jeux des Bernardi\u00e8res",
+        "adresse": "impasse de la Bernardi\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "139",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.614754195880682, 47.20099198151055]
+        },
+        "position": "Local m\u00e9dical"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "1600a0011c3e167ad9c753e69f4394dd71f4d0af",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Plaine de jeux des Dervalli\u00e8res",
+        "adresse": "rue des Dervalli\u00e8res",
+        "nature_site": "Domaine public",
+        "gid": "57",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.591302102543652, 47.22593255016381]
+        },
+        "position": "Dans le couloir d'acc\u00e8s au stade"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "e3e1f5c167d140e1a87d3a9972dbf489f7a5acc7",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 2,
+        "libelle_quartier": "Dervalli\u00e8res - Zola",
+        "designation": "Plaine de Jeux Duranti\u00e8re",
+        "adresse": "70 rue de la Duranti\u00e8re",
+        "nature_site": "Domaine public",
+        "gid": "2",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.600295960751894, 47.21249349766798]
+        },
+        "position": "Dans le local du gardien"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "f64916494e9f93f3aece58285227bbcb1a262267",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "HORAIRES VARIABLES ( SUR R\u00c9SERVATION )",
+        "code_quartier": 11,
+        "libelle_quartier": "Nantes Erdre",
+        "designation": "Salle festive Nantes Erdre",
+        "adresse": "251 route de Saint Joseph",
+        "nature_site": "Domaine public",
+        "gid": "50",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5313168995191142, 47.25412483961306]
+        },
+        "position": "Dans le couloir menant aux toilettes sur la droite"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "c70c847039668374e52da94a531c3cd35730b9d6",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "HORAIRES VARIABLES  (SUR R\u00c9SERVATION)",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "Salle festive Nantes Nord",
+        "adresse": "73 avenue du Bout des Landes",
+        "nature_site": "Domaine public",
+        "gid": "137",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5808427863676782, 47.26366694563516]
+        },
+        "position": "A l'entr\u00e9e principale - sur la droite ."
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "7173bb1bab2a5ea173fe87eef06ba326a7b1a3cc",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 7,
+        "libelle_quartier": "Malakoff - Saint-Donatien",
+        "designation": "Salles municipales La Manu",
+        "adresse": "10 bis Boulevard de Stalingrad",
+        "nature_site": "Domaine public",
+        "gid": "62",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5353775390449012, 47.21940305213941]
+        },
+        "position": "Hall d'accueil \u00e0 droite en entrant"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "83e7b9becccf0de9358e9e4eb7b0ba9807b8e17e",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 1,
+        "libelle_quartier": "Nantes Nord",
+        "designation": "Stade de l'Amande",
+        "adresse": "112 route de la Chapelle sur Erdre",
+        "nature_site": "Domaine public",
+        "gid": "63",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.574179999984676, 47.26247893464454]
+        },
+        "position": "Apr\u00e8s l'entr\u00e9e , \u00e0 droite dans le couloir"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "93101b8791ff41004d4d8498be2f3a6af1ae75b9",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Stade du RACC",
+        "adresse": "11 rue de la Rivi\u00e8re",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "108",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.5002614924797122, 47.23188033530743]
+        },
+        "position": "Dans le local d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "fd61f9317e2a214c9cd39f1a482794e68f0b9cb4",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 10,
+        "libelle_quartier": "Bellevue - Chantenay - Sainte Anne",
+        "designation": "Stade Esp\u00e9rance St Yves de Nantes",
+        "adresse": "15 rue Marange Sylvange",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "38",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.6112498664567592, 47.201859685512574]
+        },
+        "position": "Local d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "96e14d6895abd6ee88b822609b48966ab029e881",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Stade Jean-Jacques Audubon  Audubon",
+        "adresse": "45 rue Jean-Jacques Audubon",
+        "nature_site": "Domaine public",
+        "gid": "142",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.503873007528072, 47.23964078189262]
+        },
+        "position": "EXT\u00c9RIEUR  contre le mur du b\u00e2timent"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "812d95328e08631dfdcfb230b17a95f97731bc2f",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 11,
+        "libelle_quartier": "Nantes Erdre",
+        "designation": "Stade Joseph Geoffroy \"le vivier\"",
+        "adresse": "25 Rue du Port Boyer",
+        "nature_site": "Domaine priv\u00e9",
+        "gid": "132",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.533419829738917, 47.24040928296009]
+        },
+        "position": "Dans le local d'accueil"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "3f215bc4ffdb7910d74d3c6726672ba1458503c7",
+      "fields": {
+        "commune": "St-Herblain",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 1722,
+        "libelle_quartier": "Bourg",
+        "designation": "Stade Pascal Laporte",
+        "adresse": "74 bd des Anglais",
+        "nature_site": "Domaine public",
+        "gid": "25",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.6379009112506902, 47.21637302029975]
+        },
+        "position": "Sur le mur de la brasserie"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    },
+    {
+      "datasetid": "244400404_defibrillateurs-nantes",
+      "recordid": "09ccbc1c1bd816de7b7d966df4de1928fde5660f",
+      "fields": {
+        "commune": "Nantes",
+        "jour_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "code_quartier": 6,
+        "libelle_quartier": "Doulon - Botti\u00e8re",
+        "designation": "Stade Pin Sec",
+        "adresse": "19 rue pierre bouguer",
+        "nature_site": "Domaine public",
+        "gid": "23",
+        "heure_fermeture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "heure_ouverture": "VARIABLE SUIVANT L'ACTIVIT\u00c9",
+        "geo_shape": {
+          "type": "Point",
+          "coordinates": [-1.520055034119232, 47.24195581540431]
+        },
+        "position": "Dans le local du gardein"
+      },
+      "record_timestamp": "2021-04-02T03:00:03.588000+00:00"
+    }
+  ],
+  "facet_groups": [
+    {
+      "facets": [
+        {
+          "count": 144,
+          "path": "Nantes",
+          "state": "displayed",
+          "name": "Nantes"
+        },
+        {
+          "count": 10,
+          "path": "Bouguenais",
+          "state": "displayed",
+          "name": "Bouguenais"
+        },
+        {
+          "count": 1,
+          "path": "St-Herblain",
+          "state": "displayed",
+          "name": "St-Herblain"
+        }
+      ],
+      "name": "commune"
+    },
+    {
+      "facets": [
+        {
+          "count": 40,
+          "path": "Doulon - Botti\u00e8re",
+          "state": "displayed",
+          "name": "Doulon - Botti\u00e8re"
+        },
+        {
+          "count": 32,
+          "path": "Centre Ville",
+          "state": "displayed",
+          "name": "Centre Ville"
+        },
+        {
+          "count": 18,
+          "path": "Dervalli\u00e8res - Zola",
+          "state": "displayed",
+          "name": "Dervalli\u00e8res - Zola"
+        },
+        {
+          "count": 11,
+          "path": "Bellevue - Chantenay - Sainte Anne",
+          "state": "displayed",
+          "name": "Bellevue - Chantenay - Sainte Anne"
+        },
+        {
+          "count": 11,
+          "path": "Nantes Nord",
+          "state": "displayed",
+          "name": "Nantes Nord"
+        },
+        {
+          "count": 9,
+          "path": "Malakoff - Saint-Donatien",
+          "state": "displayed",
+          "name": "Malakoff - Saint-Donatien"
+        },
+        {
+          "count": 8,
+          "path": "Ile de Nantes",
+          "state": "displayed",
+          "name": "Ile de Nantes"
+        },
+        {
+          "count": 7,
+          "path": "Hauts Pav\u00e9s - Saint F\u00e9lix",
+          "state": "displayed",
+          "name": "Hauts Pav\u00e9s - Saint F\u00e9lix"
+        },
+        {
+          "count": 4,
+          "path": "Nantes Erdre",
+          "state": "displayed",
+          "name": "Nantes Erdre"
+        },
+        {
+          "count": 3,
+          "path": "Breil - Barberie",
+          "state": "displayed",
+          "name": "Breil - Barberie"
+        },
+        { "count": 1, "path": "Bourg", "state": "displayed", "name": "Bourg" },
+        {
+          "count": 1,
+          "path": "Nantes Sud",
+          "state": "displayed",
+          "name": "Nantes Sud"
+        }
+      ],
+      "name": "libelle_quartier"
+    },
+    {
+      "facets": [
+        {
+          "count": 124,
+          "path": "Domaine public",
+          "state": "displayed",
+          "name": "Domaine public"
+        },
+        {
+          "count": 31,
+          "path": "Domaine priv\u00e9",
+          "state": "displayed",
+          "name": "Domaine priv\u00e9"
+        }
+      ],
+      "name": "nature_site"
+    }
+  ]
+}
